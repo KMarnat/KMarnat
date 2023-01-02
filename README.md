@@ -22,5 +22,4 @@
 
 ### My projects:
 
-<br>
 :thermometer:
