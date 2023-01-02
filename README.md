@@ -22,4 +22,4 @@
 
 ### My projects:
 
-:thermometer:
+:thermometer: [Weather app by: Kaspar Marnat](https://kmarnat.github.io/)
