@@ -2,7 +2,7 @@
 
 ## I'm currently studying web development in Tallinn Polytechnic School 🏫
 
-- 🧠 I'm currently learning React, recently finished an introductory course: [Learn React for free](https://scrimba.com/learn/learnreact)
+- 🧠 I'm currently learning React, recently finished an introductory course: [Learn React for free](https://scrimba.com/learn/learnreact)<br>
   Also studying JavaScript: [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - 👓 I try to learn something new about web development every day by reading on forums, watching videos or doing courses
 - 🥅 2023 goal: finish my web development studies in school and get a good job as a developer, in perfect scenario a React developer
