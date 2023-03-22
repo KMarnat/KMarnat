@@ -2,10 +2,10 @@
 
 ## I'm currently studying web development in Tallinn Polytechnic School 🏫
 
-- 🧠 I'm currently learning React, recently finished an introductory course: [Learn React for free](https://scrimba.com/learn/learnreact)<br>
-  Also studying JavaScript: [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- 🧠 I'm currently taking this course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)<br>
+  Completed JavaScript course: [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - 👓 I try to learn something new about web development every day by reading on forums, watching videos or doing courses
-- 🥅 2023 goal: finish my web development studies in school and get a good job as a developer, in perfect scenario a React developer
+- 🥅 2023 goal: finish my web development studies in school and get a good job as a junior developer.
 - ⭐ Hobbies: I like cycling, swimming, playing video games and web development
 
 ### Languages and Tools:
