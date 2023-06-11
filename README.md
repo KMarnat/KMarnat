@@ -2,7 +2,7 @@
 
 ## I'm currently studying web development in Tallinn Polytechnic School 🏫
 
-- 🧠 I'm currently taking this course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)<br>
+- 🧠 I'm currently taking this course: [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)<br>
   Completed JavaScript course: [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - 👓 I try to learn something new about web development every day by reading on forums, watching videos or doing courses
 - 🥅 2023 goal: finish my web development studies in school and get a good job as a junior developer.
