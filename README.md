@@ -23,3 +23,5 @@
 ### My projects:
 
 - :thermometer: [Weather app by: Kaspar Marnat](https://kmarnat.github.io/) (not responsive at the moment)
+- ✈ [GoToChina](https://gotochina.netlify.app/)
+- 🚀 [Ignotum](https://ignotum.netlify.app/)
